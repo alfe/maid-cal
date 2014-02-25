@@ -3,7 +3,6 @@ require 'gmail' # https://github.com/dcparker/ruby-gmail
 require 'kconv'
 require 'date'
 
-require "./MaidMail.rb"
 require "./MaidCal.rb"
 require "./gmail_send.rb"
 load "config.rb"
